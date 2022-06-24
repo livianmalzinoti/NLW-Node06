@@ -1,0 +1,19 @@
+{
+  "name": "NLW-Node06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/livianmalzinoti/NLW-Node06.git",
+  "author": "livianmalzinoti",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
